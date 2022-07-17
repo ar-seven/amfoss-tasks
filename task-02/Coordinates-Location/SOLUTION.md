@@ -37,7 +37,9 @@ cat>NSeconds.txt
 
 using cat to combine 3 file text content into one.
 
-`cat NDegree.txt NMinutes.txt NSeconds.txt > NorthCoordinate.txt`
+```
+cat NDegree.txt NMinutes.txt NSeconds.txt > NorthCoordinate.txt
+```
 
 ### v.
 
@@ -74,7 +76,9 @@ rm East/EastCoordinate.txt
 
 ## 5.
 
-`cat North.txt East.txt > Location-Coordinate.txt`
+```
+cat North.txt East.txt > Location-Coordinate.txt
+```
 
 ## 6.
 
@@ -96,9 +100,6 @@ I cloned my repository
 
 ```
 git add task-02
-git commit -m "task 2"
-git push
-```
 git commit -m "task 2"
 git push
 ```
