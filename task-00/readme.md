@@ -1,0 +1,5 @@
+# Install Ubuntu 20.04 [Desktop]
+
+I already had Ubuntu 22.04 in dual boot. I made a disc image of the iso on a usb using Rufus. Then I set up proper partitions (root, efi, and efi) and gave a proper directory for the grub, and it was all fine.
+
+I started using Linux in the seventh grade. I used to play around with partitioning and installing random os. I accidentally formatted the whole hard disc that had Windows on my first try when I tried to install it without referring anywhere. I was trying it on my PC, which didn't have any important data. Then I learned about it and I became pretty good at it. There were times I messed up my PC and I learned how to solve those problems. All these problems helped me to find solutions by googling efficiently. It helped to develop my googling skills. I deleted Ubuntu partitions directly using Windows Partition Manager back then, then got stuck at grub, then got stuck again at bios, with no grub and no Windows boot manager. Then I googled and solved. At that point, I understood I could really do anything by self-education.
