@@ -1,1 +1,30 @@
-# amfoss-tasks
+# About Me
+
+I am R Aravind, from Kottayam, Kerala. I just started off with my second year in the AIE batch. I worked with the Bi0s club for about a year. I enjoyed those days and gained a lot of knowledge. I had a good time over there, and I still miss them. It was never about being fed up there, or being overworked and unable to take it, or anything of that sort. I was a little late when I laid out a plan for catching up on my dreams. I am a person who sees most things in the long run rather than a short time period. It was indeed necessary to shift from cybersecurity to the development side to work out the plan.
+
+
+During the first semester break, I really got into life and explored the world. I learned a lot of things at that time. I learned about life and the most common mistakes people make in their lives, and my friends said I started to sound like an old man talking from experience. It was never only about learning from your experiences; it was also about learning from others' experiences too. I learned more about how money works, got a glimpse of the corporate world, and learned how to rise to the top. Even some of the most successful people fail to handle life properly. I found that I have good business skills. My father owns a business, I have something in my blood itself, and I have leadership skills. I can manage people to do particular tasks without much of a failure, and even better by laying out a better plan. I also started learning communication skills as part of the plan. Because getting your idea of an app or anything into someone's ear in the proper way is very important. I had to figure out a way to properly utilise my skills. A lot of ideas spark up in my head. Whenever I see  problem in the world, I always think of solutions. Or even when visiting a site, I am more interested in thinking about how developers can improve this site. To create and implement new ideas, a developing side is indeed needed. I took advice from Ashwin Shenoy too. He told me I should go into developing fields. And I discussed my problems with my dad's brother, who is a really good software engineer with a lot of experience. He also told me to shift to the development side. At first, I was a little held back by emotions.
+
+
+When I came to campus for the first time for semester 2 classes, everything went well for 2 weeks. After that, I was admitted to the hospital with severe back pain. It was a stage at which I could no longer sit in a chair. I found out that I have permanent damage to my spinal disc due to a birth defect and can't really do anything about it. It will be with me for my lifetime. I was admitted for about a month. It was a pretty bad time. I got off track academically, but kept doing Bi0s club work more . I had to just be in bed or my back could get worse, so less time for work. I was all drained on those days. I was like, "Why me?" I got discharged, and midterms were there the week I went to the hostel. I scored higher than average in all subjects. I missed a tonne of quizzes and assignments. It was a complete disaster, as it was a continuous evaluation.
+
+
+I am now standing more than half the time in my classes and in clubs, and now at home as I can't sit for long. I bought two standing desks as it was indeed required for me to continue my career. Still, at the end of the day, all I was left with was severe back pain at the time of sleep. I was told by the doctor to lay low and get enough rest. Actually, I had to go for a pschiotheraphy after that, but academics would not allow me. After a week or two, I became so tired that I was finishing the logs and keeping up with current work too. Things got pretty worse by this time.
+
+
+It was end-of-semester time. I returned to the plan I was laying out. I spent a week thinking about them. Finally, I mustered the courage to begin to execute. I left the club on June 28, thanking everyone there for being part of some of the beautiful days. It was one of the saddest days. It was the first time I mastered my heart with my brain. In some situations, we can't let emotions take control. We need to tackle it with our brains. Then it was project time. I was in a group of five with only me and another guy who works. I really suffered during that time. I haven't had proper sleep for a month. For relief, I started doing amfoss tasks back then. Then, after about half of the project was completed, the people who worked most in a group started to suffocate. Some who worked so hard were mentally tired at a point. I wanted to change groups, but there were no groups to join and most of them had weak members. So I made a move by getting together some strong people. At first, the people I called were not interested. During the night before a project, people who worked by learning outside were exhausted at that point. Then the friends I called came. And after that, I got fed up with calls from others to let them into the group. I know it's a little thing, but it's the first time I brought together good people and inspired them.
+
+
+The project was somehow completed. Due to my planning, we outperformed other groups that had better people. My plan went all the way I wanted it to be, even finding weak points in some teachers to impress them. I am a good observer too.
+
+
+After that, during the break, I was under treatment for my back. I was off work for most of that time as I was advised to be in bed most of the time. I managed to do tasks along the way too.
+But it took quite some time. I was more concentrated on disciplining my life. I started reading books, listening to podcasts, and working on being a good person overall, not just in my career. I gave equal importance to my career and health. I started to feel better. Exercises and stretches helped. I got an appointment with a world-famous orthopaedic surgeon. He figured out the exact problem I had. I was asked to get an MRI for a better diagnosis and see him next week. He said he would make me better.
+
+
+I slowly started getting back to life, I am hoping to keep it up and grow in the coming days. 
+
+
+
+
+
